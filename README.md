@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-Given a CSV file containing a dataset of continuous information with a binary class label, this program will train off of the given dataset and predict the accuracy on the same dataset.
+Given a CSV file containing a dataset of continuous feature information with a binary class label, this program will train off of the given dataset using the IC3 algorithm and predict the accuracy on the same dataset.
 
 There is a total of 4 synthetic training datasets and a pokemon dataset. The synthetic training datasets do not have any feature labels assigned to them, but the pokemon labels are as follows: 
 ```
